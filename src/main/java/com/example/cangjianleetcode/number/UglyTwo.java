@@ -1,4 +1,4 @@
-package com.example.cangjianleetcode.interview;
+package com.example.cangjianleetcode.number;
 
 
 /**

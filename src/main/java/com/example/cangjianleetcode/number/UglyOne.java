@@ -1,4 +1,4 @@
-package com.example.cangjianleetcode.interview;
+package com.example.cangjianleetcode.number;
 
 /**
  * @description: 丑数1（lt 263）
